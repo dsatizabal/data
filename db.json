@@ -1,6 +1,5 @@
 {
-	"companies" : 
-	[
+	"companies" : [
 		{ "name": "Stanley Linda CPA", "type": "Professional Services", "address": "1140 Scenic Drive # 100", "city": "Modesto", "state": "CA", "zip": "95350" },
 		{ "name": "Interstate Mini Storage", "type": "Warehousing & Storage", "address": "1845 South 4th St", "city": "El Centro", "state": "CA", "zip": "92243" },
 		{ "name": "Robert Grant Law Offices", "type": "Legal", "address": "688 North Arrowhead Avenue", "city": "San Bernardino", "state": "CA", "zip": "92401" },
@@ -10,15 +9,17 @@
 		{ "name": "Bulltek Registration Service Ltd", "type": "Professional Services", "address": "31977 Hilltop Boulevard # D", "city": "Running Springs", "state": "CA", "zip": "92382" },
 		{ "name": "Cox Rasmussen & CO Marketing", "type": "Advertising & Marketing", "address": "2830 F St", "city": "Eureka", "state": "CA", "zip": "95501" },
 		{ "name": "Promo Line", "type": "Professional Services", "address": "5303 Betsy Ross Drive", "city": "Santa Clara", "state": "CA", "zip": "95054" },
-		{ "name": "Perry Insurance & Financial", "type": "Insurance", "address": "655 University Avenue", "city": "Sacramento", "state": "CA", "zip": "95825" },
+		{ "name": "Perry Insurance & Financial", "type": "Insurance", "address": "655 University Avenue", "city": "Sacramento", "state": "CA", "zip": "95825" }
 	],
-	"buildings":
-	[
+	"buildings": [
 		{"name": "Davenport Hall", "address": "607 S Mathews Ave", "stateZip": "Urbana, IL 61801", "category": "Memorial", "type": "building"},
 		{"name": "College of Fine and Applied Arts Performing Arts Annex", "address": "1301 S Goodwin Ave", "stateZip": "Urbana, IL 61801", "category": "Industial", "type": "building"},
 		{"name": "McKinley Health Center", "address": "1109 S Lincoln Ave", "stateZip": "Urbana, IL 61801", "category": "Big Building", "type": "building"},
 		{"name": "Harding Band Building", "address": "1103 S Sixth St", "stateZip": "Champaign, IL 61820", "category": "Industial", "type": "building"},
 		{"name": "Gym Annex", "address": "1402 Springfield Ave", "stateZip": "Urbana, IL 61801", "category": "Government", "type": "building"},
-		{"name": "Armory", "address": "505 E Armory Ave", "stateZip": "Champaign, IL 61820", "category": "Industial", "type": "building"},
-	]
+		{"name": "Armory", "address": "505 E Armory Ave", "stateZip": "Champaign, IL 61820", "category": "Industial", "type": "building"}
+	],
+	"profile": {
+		"name": "typicode"
+	}
 }
