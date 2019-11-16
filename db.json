@@ -29,8 +29,7 @@
 		{"name": "Observatory", "address": "901 S Mathews Ave", "stateZip": "Urbana, IL 61801", "category": "Education", "type": "building"},
 		{"name": "Materials Science and Engineering Building", "address": "1304 W Green St", "stateZip": "Urbana, IL 61801", "category": "Education", "type": "building"},
 		{"name": "Everitt Electrical & Computer Engineering Laboratory", "address": "1406 W Green St", "stateZip": "Urbana, IL 61801", "category": "Education", "type": "building"},
-		{"name": "Music Building", "address": "1114 W Nevada St", "stateZip": "Urbana, IL 61801", "category": "Comercial", "type": "building"},
-		{"name": "Stock Pavilion", "address": "1402 W Pennsylvania Ave", "stateZip": "Urbana, IL 61801", "category": "Education", "type": "building"}
+		{"name": "Music Building", "address": "1114 W Nevada St", "stateZip": "Urbana, IL 61801", "category": "Comercial", "type": "building"}
 	],
 	"profile": {
 		"name": "typicode"
