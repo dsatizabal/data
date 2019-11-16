@@ -1,25 +1,4 @@
 {
-	"companies" : [
-		{ "name": "Stanley Linda CPA", "type": "Professional Services", "address": "1140 Scenic Drive # 100", "city": "Modesto", "state": "CA", "zip": "95350" },
-		{ "name": "Interstate Mini Storage", "type": "Warehousing & Storage", "address": "1845 South 4th St", "city": "El Centro", "state": "CA", "zip": "92243" },
-		{ "name": "Robert Grant Law Offices", "type": "Legal", "address": "688 North Arrowhead Avenue", "city": "San Bernardino", "state": "CA", "zip": "92401" },
-		{ "name": "Mold Inspection in San Leandro, CA", "type": "Other Business Services", "address": "1401 E. Juana", "city": "San Leandro", "state": "CA", "zip": "94577" },
-		{ "name": "Paul Brisson Attorney", "type": "Legal", "address": "427 Yale Avenue", "city": "Claremont", "state": "CA", "zip": "91711" },
-		{ "name": "American Environmental Testing", "type": "Professional Services", "address": "2834 North Naomi St", "city": "Burbank", "state": "CA", "zip": "91504" },
-		{ "name": "Bulltek Registration Service Ltd", "type": "Professional Services", "address": "31977 Hilltop Boulevard # D", "city": "Running Springs", "state": "CA", "zip": "92382" },
-		{ "name": "Cox Rasmussen & CO Marketing", "type": "Advertising & Marketing", "address": "2830 F St", "city": "Eureka", "state": "CA", "zip": "95501" },
-		{ "name": "Promo Line", "type": "Professional Services", "address": "5303 Betsy Ross Drive", "city": "Santa Clara", "state": "CA", "zip": "95054" },
-		{ "name": "Perry Insurance & Financial", "type": "Insurance", "address": "655 University Avenue", "city": "Sacramento", "state": "CA", "zip": "95825" },
-		{ "name": "Irvine CO", "type": "Other Business Services", "address": "14000 Jamboree Road", "city": "Irvine", "state": "CA", "zip": "92606" },
-		{ "name": "Rain Chains World", "type": "Other Business Services", "address": "4570 Eucalyptus Avenue", "city": "Chino", "state": "CA", "zip": "91710" },
-		{ "name": "J Moore Partners LLC", "type": "Other Business Services", "address": "311 California St # 400", "city": "San Francisco", "state": "CA", "zip": "94104" },
-		{ "name": "Nextgen Advisors", "type": "Professional Services", "address": "3652 Viaduct Lujosa", "city": "Escondido", "state": "CA", "zip": "92025" },
-		{ "name": "Torvick Realty", "type": "Real Estate", "address": "330 Pythian Road", "city": "Santa Rosa", "state": "CA", "zip": "95409" },
-		{ "name": "Kotab Dominic M", "type": "Legal", "address": "100 West San Fernando St # 300", "city": "San Jose", "state": "CA", "zip": "95113" },
-		{ "name": "Receivers Inc", "type": "Legal", "address": "15700 Winchester Boulevard", "city": "Los Gatos", "state": "CA", "zip": "95030" },
-		{ "name": "The Ziegel Group", "type": "Other Business Services", "address": "4500 Woodman Ave. Suite A", "city": "Sherman Oaks", "state": "CA", "zip": "91423" },
-		{ "name": "Clark Pest Control Of Stockton Inc", "type": "Other Business Services", "address": "248 Rickenbacker Circle", "city": "Livermore", "state": "CA", "zip": "94551" }
-	],
 	"buildings": [
 		{"name": "Davenport Hall", "address": "607 S Mathews Ave", "stateZip": "Urbana, IL 61801", "category": "Memorial", "type": "building"},
 		{"name": "College of Fine and Applied Arts Performing Arts Annex", "address": "1301 S Goodwin Ave", "stateZip": "Urbana, IL 61801", "category": "Industial", "type": "building"},
